@@ -8,6 +8,7 @@ const typesToRig = {
   'text/stylus': 'styl',
   'text/sass': 'sass',
   'text/scss': 'scss',
+  'text/riot': 'tag',
   'text/vue': 'vue',
   'text/graphql': 'graphql',
 };
